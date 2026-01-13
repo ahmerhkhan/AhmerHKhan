@@ -66,7 +66,7 @@ I build products at the intersection of **business strategy** and **technical ex
 ## 📫 **Let's Connect**
 
 - **Portfolio:** [ahmerhkhan.vercel.app](https://ahmerhkhan.vercel.app)
-- **LinkedIn:** [www.linkedin.com/in/ahmer-habib-khan-012b981b4](www.linkedin.com/in/ahmer-habib-khan-012b981b4)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ahmer-habib-khan-012b981b4)
 - **Email:** ahmerhkhan17@gmail.com
 - **Resume:** [Download CV](https://drive.google.com/file/d/1D5-1uC1ha2b6pLpRFGLOeVqaKrPN1xQM/view)
 
