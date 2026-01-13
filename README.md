@@ -30,7 +30,7 @@ I build products at the intersection of **business strategy** and **technical ex
 
 ### 📊 **[Business Intelligence Portfolio](https://github.com/ahmerhkhan/sql-powerbi-business-intelligence)**
 **Focus:** Data-driven decision making for business operations  
-**Tech:** SQL, Power BI, DAX, Excel, Data Modeling  
+**Tech:** SQL, Power BI, DAX, Excel, Data Analysis  
 **Projects:** Sales analytics, customer segmentation, financial reporting
 
 ### 🌐 **[Portfolio Website](https://github.com/ahmerhkhan/portfolio)**
@@ -68,7 +68,7 @@ I build products at the intersection of **business strategy** and **technical ex
 - **Portfolio:** [ahmerhkhan.vercel.app](https://ahmerhkhan.vercel.app)
 - **LinkedIn:** [linkedin.com/in/ahmerhkhan](https://linkedin.com/in/ahmerhkhan)
 - **Email:** ahmerhkhan17@gmail.com
-- **Resume:** [Download CV](https://ahmerhkhan.vercel.app/cv)
+- **Resume:** [Download CV](https://drive.google.com/file/d/1D5-1uC1ha2b6pLpRFGLOeVqaKrPN1xQM/view)
 
 ---
 
