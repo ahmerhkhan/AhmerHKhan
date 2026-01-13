@@ -58,10 +58,8 @@ I build products at the intersection of **business strategy** and **technical ex
 
 ## 📈 **GitHub Activity**
 
-![Ahmer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmerhkhan&show_icons=true&theme=minimal&hide_border=true)
-
 **500+ contributions in 2025** across private and public repositories.  
-*Note: Most recent work is in private repositories due to commercial incubation agreements. Code samples and architecture walkthroughs available upon request.*
+*Note: Most recent work is in private repositories due to commercial incubation agreements.*
 
 ---
 
@@ -78,7 +76,7 @@ I build products at the intersection of **business strategy** and **technical ex
 
 - Product Management Roles (Technical PM, Product Owner, APM)
 - Full-Stack Engineering Roles (Next.js/Python focus)
-- Opportunities to Ship (High-velocity engineering teams)
+- Opportunities to Ship (High-velocity product teams)
 - Remote Opportunities (Open to relocation)
 ---
 
