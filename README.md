@@ -75,7 +75,6 @@ I build products at the intersection of **business strategy** and **technical ex
 ## 🎯 **Currently Seeking**
 
 - Product Management Roles (Technical PM, Product Owner, APM)
-- Full-Stack Engineering Roles (Next.js/Python focus)
 - Opportunities to Ship (High-velocity product teams)
 - Remote Opportunities (Open to relocation)
 ---
