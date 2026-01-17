@@ -1,8 +1,8 @@
 # Hey , I'm Ahmer Habib Khan
 
-**Product-Focused Builder** | **Technical Product Lead** | **Fintech Founder**
+**Product-Focused Builder** | **AI-Native Engineer** | **Fintech Founder**
 
-I build products at the intersection of **business strategy** and **technical execution**. Specializing in architecting full-stack applications from concept to deployment, with expertise in fintech infrastructure and B2B SaaS.
+I turn complex business judgment into functional software. I specialize in AI-native development (Vibecoding)—leveraging LLMs and modern frameworks to move from concept to production at a speed traditional workflows can't match.  Experienced in architecting full-stack applications from concept to deployment, with expertise in fintech infrastructure and B2B SaaS.
 
 ---
 
@@ -21,6 +21,13 @@ I build products at the intersection of **business strategy** and **technical ex
 ---
 
 ## 🌱 **Public Projects & Code Samples**
+
+## DiligenceAI — Automated VC Deal Screening
+
+**The Problem:** VC screening is slow and often buried in marketing jargon.
+**The Solution:** A full-stack tool that codifies YC partner intuition. It transforms startup landing pages into structured investment memos with weighted scoring.
+**Tech:** Next.js 15, Groq (Llama 3.3), Jina AI, TypeScript, Tailwind CSS.
+**[Live Demo]** (https://diligence-ai-rho.vercel.app/)
 
 ### 💸 **[Offline Payments PWA](https://github.com/ahmerhkhan/offline-payments-pwa-ionic)**
 **Problem:** Digital payments fail without internet in remote areas  
@@ -68,15 +75,16 @@ I build products at the intersection of **business strategy** and **technical ex
 - **Portfolio:** [ahmerhkhan.vercel.app](https://ahmerhkhan.vercel.app)
 - **LinkedIn:** [View LinkedIn](https://www.linkedin.com/in/ahmerhkhan/)
 - **Email:** ahmerhkhan17@gmail.com
-- **Resume:** [Download CV](https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)
+- **Resume:** [View Resume](https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)
 
 ---
 
 ## 🎯 **Currently Seeking**
 
-- Product Management Roles (Technical PM, Product Owner, APM)
-- Opportunities to Ship (High-velocity product teams)
-- Remote Opportunities (Open to relocation)
+- Product Engineering Roles (Founding Engineer, Full-Stack Product Builder)
+- Technical Product Management (High-velocity teams where PMs ship code)
+- Opportunities to build internal tools and software that scales human judgment.
+- Remote opportunities (open to relocation)
 ---
 
 <div align="center">
