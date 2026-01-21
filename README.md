@@ -21,8 +21,7 @@ I turn complex business judgment into functional software. I specialize in AI-na
 **The Problem:** VC screening is slow and often buried in marketing jargon.
 **The Solution:** A full-stack tool that codifies YC partner intuition. It transforms startup landing pages into structured investment memos with weighted scoring.
 **Tech:** Next.js 15, Groq (Llama 3.3), Jina AI, TypeScript, Tailwind CSS.
-**[Live Demo]** (https://diligence-ai-rho.vercel.app/)
-
+**[Live Demo](https://diligence-ai-rho.vercel.app/)** 
 ### Venue Management SaaS  
 > B2B platform eliminating double-bookings in Pakistan's $15B event industry  
 > **Tech:** Next.js 14, Supabase, Tailwind CSS, WhatsApp API  
@@ -32,7 +31,7 @@ I turn complex business judgment into functional software. I specialize in AI-na
 **Problem:** Digital payments fail without internet in remote areas  
 **Solution:** Local-first PWA enabling offline transactions with QR codes  
 **Tech:** Ionic, React, Capacitor, LocalStorage, HTML5-QRCode  
-**Live Demo:** [karandaaz.vercel.app](https://karandaaz.vercel.app/)
+**Live Demo(https://karandaaz.vercel.app/)** 
 
 ### 📊 **[Business Intelligence Portfolio](https://github.com/ahmerhkhan/sql-powerbi-business-intelligence)**
 **Focus:** Data-driven decision making for business operations  
@@ -41,7 +40,7 @@ I turn complex business judgment into functional software. I specialize in AI-na
 
 ### 🌐 **[Portfolio Website](https://github.com/ahmerhkhan/portfolio)**
 **Tech:** Next.js 14, TypeScript, Tailwind CSS, Vercel  
-**Live Site:** [ahmerhkhan.vercel.app](https://ahmerhkhan.vercel.app)
+**Live Site:(https://ahmerhkhan.vercel.app)**
 
 ---
 
@@ -71,7 +70,7 @@ I turn complex business judgment into functional software. I specialize in AI-na
 
 ## 📫 **Let's Connect**
 
-- **Portfolio:** [ahmerhkhan.vercel.app](https://ahmerhkhan.vercel.app)
+- **Portfolio(https://ahmerhkhan.vercel.app)**
 - **LinkedIn:** [View LinkedIn](https://www.linkedin.com/in/ahmerhkhan/)
 - **Email:** ahmerhkhan17@gmail.com
 - **Resume:** [View Resume](https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)
