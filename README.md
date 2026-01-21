@@ -89,6 +89,6 @@ Agile • User Journey Mapping • MVP Architecture • Market Validation • Ro
 
 <div align="center">
 
-### **"Building products that solve real business problems with code."**
+### **"I enjoy taking messy business problems and turning them into clean, functional tools. I’m happiest when I’m building at the intersection of product logic and code."**
 
 </div>
