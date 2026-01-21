@@ -12,12 +12,6 @@ I turn complex business judgment into functional software. I specialize in AI-na
 > Building Pakistan's first accessible algo-trading platform for PSX  
 > **Tech:** Python, FastAPI, PostgreSQL, WebSockets, React, TypeScript  
 > *Status: Incubated at IBA CED*
-
-### Venue Management SaaS  
-> B2B platform eliminating double-bookings in Pakistan's $15B event industry  
-> **Tech:** Next.js 14, Supabase, Tailwind CSS, WhatsApp API  
-> *Status: In development, early adoption phase*
-
 ---
 
 ## 🌱 **Public Projects & Code Samples**
@@ -28,6 +22,11 @@ I turn complex business judgment into functional software. I specialize in AI-na
 **The Solution:** A full-stack tool that codifies YC partner intuition. It transforms startup landing pages into structured investment memos with weighted scoring.
 **Tech:** Next.js 15, Groq (Llama 3.3), Jina AI, TypeScript, Tailwind CSS.
 **[Live Demo]** (https://diligence-ai-rho.vercel.app/)
+
+### Venue Management SaaS  
+> B2B platform eliminating double-bookings in Pakistan's $15B event industry  
+> **Tech:** Next.js 14, Supabase, Tailwind CSS, WhatsApp API  
+> *Status: In development, early adoption phase*
 
 ### 💸 **[Offline Payments PWA](https://github.com/ahmerhkhan/offline-payments-pwa-ionic)**
 **Problem:** Digital payments fail without internet in remote areas  
