@@ -1,8 +1,8 @@
-# Hey , I'm Ahmer Habib Khan
+# Hey, I'm Ahmer Habib Khan
 
 **Product-Focused Builder** | **AI-Native Engineer** | **Fintech Founder**
 
-I turn complex business judgment into functional software. I specialize in AI-native development (Vibecoding)—leveraging LLMs and modern frameworks to move from concept to production at a speed traditional workflows can't match.  Experienced in architecting full-stack applications from concept to deployment, with expertise in fintech infrastructure and B2B SaaS.
+I turn complex business judgment into functional software. I specialize in AI-native development (Vibecoding)—leveraging LLMs and modern frameworks to move from concept to production at a speed traditional workflows can't match. Experienced in architecting full-stack applications from concept to deployment, with expertise in fintech infrastructure and B2B SaaS.
 
 ---
 
@@ -12,43 +12,44 @@ I turn complex business judgment into functional software. I specialize in AI-na
 > Building Pakistan's first accessible algo-trading platform for PSX  
 > **Tech:** Python, FastAPI, PostgreSQL, WebSockets, React, TypeScript  
 > *Status: Incubated at IBA CED*
+
 ---
 
 ## 🌱 **Public Projects & Code Samples**
 
-## DiligenceAI — Automated VC Deal Screening
+### **DiligenceAI — Automated VC Deal Screening**
+**The Problem:** VC screening is slow and often buried in marketing jargon.  
+**The Solution:** A full-stack tool that codifies YC partner intuition. It transforms startup landing pages into structured investment memos with weighted scoring.  
+**Tech:** Next.js 15, Groq (Llama 3.3), Jina AI, TypeScript, Tailwind CSS.  
+**[Live Demo](https://diligence-ai-rho.vercel.app/)**
 
-**The Problem:** VC screening is slow and often buried in marketing jargon.
-**The Solution:** A full-stack tool that codifies YC partner intuition. It transforms startup landing pages into structured investment memos with weighted scoring.
-**Tech:** Next.js 15, Groq (Llama 3.3), Jina AI, TypeScript, Tailwind CSS.
-**[Live Demo](https://diligence-ai-rho.vercel.app/)** 
-### Venue Management SaaS  
+### **Venue Management SaaS**
 > B2B platform eliminating double-bookings in Pakistan's $15B event industry  
 > **Tech:** Next.js 14, Supabase, Tailwind CSS, WhatsApp API  
 > *Status: In development, early adoption phase*
 
-### 💸 **[Offline Payments PWA](https://github.com/ahmerhkhan/offline-payments-pwa-ionic)**
+### **💸 Offline Payments PWA**
 **Problem:** Digital payments fail without internet in remote areas  
 **Solution:** Local-first PWA enabling offline transactions with QR codes  
 **Tech:** Ionic, React, Capacitor, LocalStorage, HTML5-QRCode  
-**Live Demo(https://karandaaz.vercel.app/)** 
+**[Live Demo](https://karandaaz.vercel.app/) | [GitHub](https://github.com/ahmerhkhan/offline-payments-pwa-ionic)**
 
-### 📊 **[Business Intelligence Portfolio](https://github.com/ahmerhkhan/sql-powerbi-business-intelligence)**
+### **📊 Business Intelligence Portfolio**
 **Focus:** Data-driven decision making for business operations  
 **Tech:** SQL, Power BI, DAX, Excel, Data Analysis  
-**Projects:** Sales analytics, customer segmentation, financial reporting
+**Projects:** Sales analytics, customer segmentation, financial reporting  
+**[GitHub Repo](https://github.com/ahmerhkhan/sql-powerbi-business-intelligence)**
 
-### 🌐 **[Portfolio Website](https://github.com/ahmerhkhan/portfolio)**
+### **🌐 Portfolio Website**
 **Tech:** Next.js 14, TypeScript, Tailwind CSS, Vercel  
-**Live Site:(https://ahmerhkhan.vercel.app)**
+**[Live Site](https://ahmerhkhan.vercel.app) | [GitHub](https://github.com/ahmerhkhan/portfolio)**
 
 ---
 
 ## 🛠️ **Technical Stack**
 
 ### **Product Strategy & Execution**
-- Agile • User Journey Mapping • MVP Architecture
-- Market Validation • Roadmap Planning • Stakeholder Management
+Agile • User Journey Mapping • MVP Architecture • Market Validation • Roadmap Planning • Stakeholder Management
 
 ### **Frontend & Mobile**
 `Next.js 14` `React` `TypeScript` `Tailwind CSS` `Ionic` `Capacitor`
@@ -56,8 +57,8 @@ I turn complex business judgment into functional software. I specialize in AI-na
 ### **Backend & Data**
 `Python` `FastAPI` `Supabase` `PostgreSQL` `SQL` `WebSockets`
 
-### **DevOps & Tools**
-`Vercel` `Render` `Git` `GitHub Actions` `Cursor AI` 
+### **AI & Development Tools**
+`Cursor AI` `Groq` `Jina AI` `Vercel` `Render` `Git` `GitHub`
 
 ---
 
@@ -70,10 +71,10 @@ I turn complex business judgment into functional software. I specialize in AI-na
 
 ## 📫 **Let's Connect**
 
-- **Portfolio(https://ahmerhkhan.vercel.app)**
-- **LinkedIn:** [View LinkedIn](https://www.linkedin.com/in/ahmerhkhan/)
+- **[Portfolio](https://ahmerhkhan.vercel.app)**
+- **[LinkedIn](https://www.linkedin.com/in/ahmerhkhan/)**
 - **Email:** ahmerhkhan17@gmail.com
-- **Resume:** [View Resume](https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)
+- **[Resume](https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)**
 
 ---
 
@@ -81,12 +82,13 @@ I turn complex business judgment into functional software. I specialize in AI-na
 
 - Product Engineering Roles (Founding Engineer, Full-Stack Product Builder)
 - Technical Product Management (High-velocity teams where PMs ship code)
-- Opportunities to build internal tools and software that scales human judgment.
+- Opportunities to build internal tools and software that scales human judgment
 - Remote opportunities (open to relocation)
+
 ---
 
 <div align="center">
-  
+
 ### **"Building products that solve real business problems with code."**
 
 </div>
