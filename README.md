@@ -32,7 +32,7 @@ I turn complex business judgment into functional software. I specialize in AI-na
 **Problem:** Digital payments fail without internet in remote areas  
 **Solution:** Local-first PWA enabling offline transactions with QR codes  
 **Tech:** Ionic, React, Capacitor, LocalStorage, HTML5-QRCode  
-**[Live Demo](https://karandaaz.vercel.app/) | [GitHub](https://github.com/ahmerhkhan/offline-payments-pwa-ionic)**
+**[Live Demo](https://karandaaz.vercel.app/)**
 
 ### **📊 Business Intelligence Portfolio**
 **Focus:** Data-driven decision making for business operations  
@@ -42,7 +42,7 @@ I turn complex business judgment into functional software. I specialize in AI-na
 
 ### **🌐 Portfolio Website**
 **Tech:** Next.js 14, TypeScript, Tailwind CSS, Vercel  
-**[Live Site](https://ahmerhkhan.vercel.app) | [GitHub](https://github.com/ahmerhkhan/portfolio)**
+**[Live Site](https://ahmerhkhan.vercel.app)**
 
 ---
 
@@ -75,15 +75,6 @@ Agile • User Journey Mapping • MVP Architecture • Market Validation • Ro
 - **[LinkedIn](https://www.linkedin.com/in/ahmerhkhan/)**
 - **Email:** ahmerhkhan17@gmail.com
 - **[Resume](https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)**
-
----
-
-## 🎯 **Currently Seeking**
-
-- Product Engineering Roles (Founding Engineer, Full-Stack Product Builder)
-- Technical Product Management (High-velocity teams where PMs ship code)
-- Opportunities to build internal tools and software that scales human judgment
-- Remote opportunities (open to relocation)
 
 ---
 
