@@ -1,9 +1,10 @@
 # Hey, I'm Ahmer Habib Khan
 
-**Product-Focused Builder** | **AI-Native Engineer** | **Fintech Founder**
+**Product-Focused Builder · Early-Stage Fintech Founder · AI-Assisted Prototyper**
 
-I turn complex business judgment into functional software. I specialize in AI-native development (Vibecoding)—leveraging LLMs and modern frameworks to move from concept to production at a speed traditional workflows can't match. Experienced in architecting full-stack applications from concept to deployment, with expertise in fintech infrastructure and B2B SaaS.
+I build early-stage products by turning ambiguous business problems into testable, working MVPs. My strength sits at the intersection of product thinking and lightweight technical execution — user research, scoping MVPs, and shipping functional demos using modern web stacks and AI-assisted workflows.
 
+I operate closer to product: defining what to build, validating why it matters, and using AI tools and modern frameworks to move from idea → prototype → iteration quickly.
 ---
 
 ## 🔭 **Current Work** *(Private Repositories)*
@@ -49,7 +50,7 @@ I turn complex business judgment into functional software. I specialize in AI-na
 ## 🛠️ **Technical Stack**
 
 ### **Product Strategy & Execution**
-Agile • User Journey Mapping • MVP Architecture • Market Validation • Roadmap Planning • Stakeholder Management
+User Research · MVP Scoping · Problem Framing · Roadmap Planning · Market Validation · Stakeholder Communication
 
 ### **Frontend & Mobile**
 `Next.js 14` `React` `TypeScript` `Tailwind CSS` `Ionic` `Capacitor`
@@ -58,14 +59,14 @@ Agile • User Journey Mapping • MVP Architecture • Market Validation • Ro
 `Python` `FastAPI` `Supabase` `PostgreSQL` `SQL` `WebSockets`
 
 ### **AI & Development Tools**
-`Cursor AI` `Groq` `Jina AI` `Vercel` `Render` `Git` `GitHub`
+Cursor · Prompt Engineering · LLM Debugging · Rapid Prototyping
 
 ---
 
 ## 📈 **GitHub Activity**
 
 **500+ contributions in 2025** across private and public repositories.  
-*Note: Most recent work is in private repositories due to commercial incubation agreements.*
+*Note: Most current work lives in private repos due to incubation and early-stage product constraints.*
 
 ---
 
@@ -80,6 +81,6 @@ Agile • User Journey Mapping • MVP Architecture • Market Validation • Ro
 
 <div align="center">
 
-### **"I enjoy taking messy business problems and turning them into clean, functional tools. I’m happiest when I’m building at the intersection of product logic and code."**
+### **""**I enjoy taking messy, real-world business problems and turning them into simple, testable products. I’m at my best when working from research to MVP, iterating fast, and learning from real users.
 
 </div>
