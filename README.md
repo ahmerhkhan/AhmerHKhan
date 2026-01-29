@@ -81,6 +81,6 @@ Cursor · Prompt Engineering · LLM Debugging · Rapid Prototyping
 
 <div align="center">
 
-### **""**I enjoy taking messy, real-world business problems and turning them into simple, testable products. I’m at my best when working from research to MVP, iterating fast, and learning from real users.
+### **I enjoy taking messy, real-world business problems and turning them into simple, testable products. I’m at my best when working from research to MVP, iterating fast, and learning from real users.**
 
 </div>
