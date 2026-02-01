@@ -81,6 +81,6 @@ Cursor · Prompt Engineering · LLM Debugging · Rapid Prototyping
 
 <div align="center">
 
-### **I enjoy taking messy, real-world business problems and turning them into simple, testable products. I’m at my best when working from research to MVP, iterating fast, and learning from real users.**
+### **I specialize in deconstructing complex business problems into high-velocity MVPs. I thrive in the intersection of deep user research and rapid technical iteration, building products that bridge the gap between idea and market validation.**
 
 </div>
