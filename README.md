@@ -31,12 +31,12 @@ An early-stage platform enabling retail investors to backtest and paper-trade qu
 ### Offline Payments PWA
 * **Concept:** Local-first PWA enabling peer‑to‑peer QR transactions without internet, using device-native storage.  
 * **Tech:** Ionic React, Capacitor, LocalStorage, HTML5-QRCode  
-* **Links:** [Live Demo](https://karandaaz.vercel.app/)
+* **Link:** [Live Demo](https://karandaaz.vercel.app/)
 
 ### Business Intelligence Portfolio
 * **Concept:** Collection of SQL queries, data cleaning steps, and Power BI dashboards for sales analytics and financial reporting.  
 * **Tech:** SQL, Power BI, DAX, Excel  
-* **Links:** [GitHub Repository](https://github.com/ahmerhkhan/sql-powerbi-business-intelligence)
+* **Link:** [GitHub Repository](https://github.com/ahmerhkhan/sql-powerbi-business-intelligence)
 
 ---
 
@@ -51,7 +51,7 @@ An early-stage platform enabling retail investors to backtest and paper-trade qu
 
 ## 📫 Connect
 
-* **[Download Resume]**(https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)  
+* **[Download Resume](https://drive.google.com/file/d/1SbZzn0qLvqLeAiB_GY-YLCpIgIfshRo0/view)**
 * **Email:** ahmerhkhan17@gmail.com  
 
 ---
