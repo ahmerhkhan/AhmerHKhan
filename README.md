@@ -1,6 +1,7 @@
 # Hey, I'm Ahmer Habib Khan
 **Product · Design · Data |**
 I build functional digital products and data tools. From fintech platforms to AI tools to offline payment systems, I take ambiguous problems, design the user journey, and ship working solutions.
+
 [Portfolio](https://ahmerhkhan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahmerhkhan/) · [Email](mailto:ahmerhkhan17@gmail.com)
 ---
 ## 🔭 Current Work
